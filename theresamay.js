@@ -109,7 +109,7 @@ theresaMay = function (){
         "magic money trees",
         "leopard print shoes",
         "child poverty",
-        "union jack bunting",
+        "union flag bunting",
         "strong and stable leadership",
         "oversized beaded necklaces"
     ];
